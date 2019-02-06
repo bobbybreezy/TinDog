@@ -85,9 +85,10 @@ text-align: left;
 
 .title-image {
   width: 50%;
-  transform: rotate(25deg);
-  position: absolute;
-  right: 30%;
+  transform: rotate(120deg);
+  
+  border-radius: 100%;
+  right: 20%;
 }
 
 /* Features Section*/
